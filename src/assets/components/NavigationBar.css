@@ -1,0 +1,30 @@
+.NavigationBar{
+    display: flex;
+    justify-content: space-around;
+    height: 74px;
+    align-items: center;
+    background-color: red;
+    
+}
+
+.iconeg1{
+    color: aliceblue;
+    text-decoration: none;
+    font-size: 24px;
+}
+
+.CampoBuscar{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.buscar{
+    border-radius: 5px;
+    background-color: rgb(164, 4, 4);
+    border: none;
+    width: 150px;
+    height: 30px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}

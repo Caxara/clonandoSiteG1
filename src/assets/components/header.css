@@ -1,0 +1,31 @@
+.headermain{
+    padding: 10px;
+}
+
+.headerlink{
+    text-decoration: none;
+    font-size: 20px;
+    margin-right: 24px;
+    /*border: red solid 5px;*/
+}
+.headerlink1{
+    color: lightblue;
+}
+.headerlink2{
+    color: red;
+}
+.headerlink3{
+    color: green;
+}
+.headerlink4{
+    color: orangered;
+}
+.headerlink5{
+    color: red;
+}
+.headerlink6{
+    color: blue;
+}
+.headerlink7{
+    color: red;
+}
